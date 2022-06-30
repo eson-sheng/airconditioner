@@ -630,7 +630,7 @@
                                 variant: "h4",
                                 component: "h1",
                                 gutterBottom: !0,
-                                children: "送给婷婷酱の便携小空调"
+                                children: "送给婷婷酱の小空调"
                             }), Object(u.jsx)(w, {}), Object(u.jsx)(Ee, {
                                 status: e.status,
                                 temperature: e.temperature,
@@ -740,7 +740,7 @@
                 }(), Ge()
         },
         38: function(e) {
-            e.exports = JSON.parse('{"b":"送给婷婷酱の便携小空调","a":{"url":"javascript:void(0);","name":""},"c":{"type":"git","url":"javascript:void(0);"}}')
+            e.exports = JSON.parse('{"b":"送给婷婷酱の小空调","a":{"url":"javascript:void(0);","name":""},"c":{"type":"git","url":"javascript:void(0);"}}')
         }
     },
     [
